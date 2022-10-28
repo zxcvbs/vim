@@ -1,0 +1,12 @@
+{
+ "diagnostic.messageTarget": "float",
+ "diagnostic.checkCurrentLine" : true,
+ "diagonstic.virtualText" : true,
+ "diagnostic.virtualTextCurrentLineOnly" : false,
+ "dagnostic.virtualTextPrefix": "<-",
+ "typescript.suggest.autoImports": true,
+ "javascript.suggest.autoImports": true
+
+ 
+ 
+}
